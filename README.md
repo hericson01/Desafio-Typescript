@@ -8,12 +8,12 @@ Conforme solicitado pelo especialista foi dada uma lista de desafios previamente
 
 ### Desafio 1
 
-![image-20220627204818717](C:\Users\Hericson\AppData\Roaming\Typora\typora-user-images\image-20220627204818717.png)
+![](E:\Desafios\Desafio Typescript\img\desafio_1.png)
 
 ### Desafio 2
 
-![image-20220627204907129](C:\Users\Hericson\AppData\Roaming\Typora\typora-user-images\image-20220627204907129.png)
+![](E:\Desafios\Desafio Typescript\img\desafio_2.png)
 
 ### Desafio 3
 
-![image-20220627205005014](C:\Users\Hericson\AppData\Roaming\Typora\typora-user-images\image-20220627205005014.png)
+![](E:\Desafios\Desafio Typescript\img\desafio_3.png)
